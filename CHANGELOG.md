@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-types/tree/HEAD)
+## [v0.1.1](https://github.com/buluma/ansible-role-types/tree/v0.1.1) (2022-05-13)
 
-[Full Changelog](https://github.com/buluma/ansible-role-types/compare/v0.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-types/compare/v0.1.0...v0.1.1)
 
 **Closed issues:**
 
