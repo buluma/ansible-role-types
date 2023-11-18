@@ -1,10 +1,10 @@
-# [types](#types)
+# [Ansible role types](#types)
 
 Try variables for their type.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-types/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-types/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-types/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-types)|[![quality](https://img.shields.io/ansible/quality/58809)](https://galaxy.ansible.com/buluma/types)|[![downloads](https://img.shields.io/ansible/role/d/58809)](https://galaxy.ansible.com/buluma/types)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-types.svg)](https://github.com/buluma/ansible-role-types/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-types.svg)](https://github.com/buluma/ansible-role-types/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-types.svg)](https://github.com/buluma/ansible-role-types/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-types/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-types/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-types/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-types)|[![downloads](https://img.shields.io/ansible/role/d/4866)](https://galaxy.ansible.com/buluma/types)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-types.svg)](https://github.com/buluma/ansible-role-types/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-types.svg)](https://github.com/buluma/ansible-role-types/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-types.svg)](https://github.com/buluma/ansible-role-types/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
