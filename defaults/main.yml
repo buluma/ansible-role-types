@@ -14,13 +14,13 @@ types_integers:
 
 # A list of booleans.
 types_booleans:
-  - yes
+  - true
   - Yes
   - YES
   - true
   - True
   - TRUE
-  - no
+  - false
   - No
   - NO
   - false
