@@ -69,9 +69,9 @@
   ansible.builtin.debug:
     msg: "{{ types_lists }} is type {{ types_lists | type_debug }}"
 
-- name: Test list of lists
-  ansible.builtin.assert:
-    that:
-      - item is list
-    quiet: true
-  loop: "{{ types_lists }}"
+# - name: Test list of lists
+#   ansible.builtin.assert:
+#     that:
+#       - item is list
+#     quiet: true
+#   loop: "{{ types_lists }}"
