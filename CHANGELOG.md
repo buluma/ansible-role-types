@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#29](https://github.com/buluma/ansible-role-types/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump docker/login-action from 3.2.0 to 3.3.0 [\#28](https://github.com/buluma/ansible-role-types/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v24.3.31](https://github.com/buluma/ansible-role-types/tree/v24.3.31) (2024-03-29)
