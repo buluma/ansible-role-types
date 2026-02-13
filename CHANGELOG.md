@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-types/compare/v24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#12](https://github.com/buluma/ansible-role-types/issues/12)
+- rebuild action [\#11](https://github.com/buluma/ansible-role-types/issues/11)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.10.0 to 24.12.0 [\#32](https://github.com/buluma/ansible-role-types/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
