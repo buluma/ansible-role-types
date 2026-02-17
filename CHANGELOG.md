@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-types/compare/v24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#12](https://github.com/buluma/ansible-role-types/issues/12)
+- rebuild action [\#11](https://github.com/buluma/ansible-role-types/issues/11)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.10.0 to 24.12.0 [\#32](https://github.com/buluma/ansible-role-types/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -19,7 +24,6 @@
 **Merged pull requests:**
 
 - Bump dependabot/fetch-metadata from 1 to 2 [\#27](https://github.com/buluma/ansible-role-types/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#24](https://github.com/buluma/ansible-role-types/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#23](https://github.com/buluma/ansible-role-types/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#22](https://github.com/buluma/ansible-role-types/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -29,6 +33,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#24](https://github.com/buluma/ansible-role-types/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#21](https://github.com/buluma/ansible-role-types/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#20](https://github.com/buluma/ansible-role-types/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 
