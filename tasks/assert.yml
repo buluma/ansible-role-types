@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test types_strings
   ansible.builtin.assert:
     that:
