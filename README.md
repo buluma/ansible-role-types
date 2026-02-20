@@ -57,24 +57,24 @@ types_integers:
 
 # A list of booleans.
 types_booleans:
-  - yes  # yamllint disable-line rule:truthy
-  - Yes  # yamllint disable-line rule:truthy
-  - YES  # yamllint disable-line rule:truthy
-  - true  # yamllint disable-line rule:truthy
-  - True  # yamllint disable-line rule:truthy
-  - TRUE  # yamllint disable-line rule:truthy
-  - On  # yamllint disable-line rule:truthy
-  - ON  # yamllint disable-line rule:truthy
-  - on  # yamllint disable-line rule:truthy
-  - no  # yamllint disable-line rule:truthy
-  - No  # yamllint disable-line rule:truthy
-  - NO  # yamllint disable-line rule:truthy
-  - false  # yamllint disable-line rule:truthy
-  - False  # yamllint disable-line rule:truthy
-  - FALSE  # yamllint disable-line rule:truthy
-  - Off  # yamllint disable-line rule:truthy
-  - OFF  # yamllint disable-line rule:truthy
-  - off  # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
 
 # A list of floats.
 types_floats:
