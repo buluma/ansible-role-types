@@ -46,40 +46,40 @@ The default values for the variables are set in [`defaults/main.yml`](https://gi
 
 # A list of strings.
 types_strings:
-- "hello"
-- "1.2.3"
+  - "hello"
+  - "1.2.3"
 
 # A list of integers.
 types_integers:
-- 0
-- 1
-- 2
+  - 0
+  - 1
+  - 2
 
 # A list of booleans.
 types_booleans:
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- true   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
-- false   # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - true # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
+  - false # yamllint disable-line rule:truthy
 
 # A list of floats.
 types_floats:
-- 0.0
-- 0.1
+  - 0.0
+  - 0.1
 
 # A map.
 types_map:
@@ -88,8 +88,8 @@ types_map:
 
 # A list of lists.
 types_lists:
-- [one, two, three]
-- [aa, bb, cc]
+  - [one, two, three]
+  - [aa, bb, cc]
 ```
 
 ## [Requirements](#requirements)
