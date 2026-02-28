@@ -68,7 +68,6 @@
 - name: Show list of lists
   ansible.builtin.debug:
     msg: "{{ types_lists }} is type {{ types_lists | type_debug }}"
-
 # - name: Test list of lists
 #   ansible.builtin.assert:
 #     that:
